@@ -1,0 +1,14 @@
+C:\Users\79969\source\repos\klient\klient\bin\Debug\net6.0\klient.exe
+C:\Users\79969\source\repos\klient\klient\bin\Debug\net6.0\klient.deps.json
+C:\Users\79969\source\repos\klient\klient\bin\Debug\net6.0\klient.runtimeconfig.json
+C:\Users\79969\source\repos\klient\klient\bin\Debug\net6.0\klient.dll
+C:\Users\79969\source\repos\klient\klient\bin\Debug\net6.0\klient.pdb
+C:\Users\79969\source\repos\klient\klient\obj\Debug\net6.0\klient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79969\source\repos\klient\klient\obj\Debug\net6.0\klient.AssemblyInfoInputs.cache
+C:\Users\79969\source\repos\klient\klient\obj\Debug\net6.0\klient.AssemblyInfo.cs
+C:\Users\79969\source\repos\klient\klient\obj\Debug\net6.0\klient.csproj.CoreCompileInputs.cache
+C:\Users\79969\source\repos\klient\klient\obj\Debug\net6.0\klient.dll
+C:\Users\79969\source\repos\klient\klient\obj\Debug\net6.0\refint\klient.dll
+C:\Users\79969\source\repos\klient\klient\obj\Debug\net6.0\klient.pdb
+C:\Users\79969\source\repos\klient\klient\obj\Debug\net6.0\klient.genruntimeconfig.cache
+C:\Users\79969\source\repos\klient\klient\obj\Debug\net6.0\ref\klient.dll
